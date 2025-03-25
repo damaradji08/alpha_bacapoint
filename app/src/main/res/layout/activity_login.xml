@@ -57,7 +57,7 @@
             tools:ignore="TouchTargetSizeCheck" />
     </com.google.android.material.textfield.TextInputLayout>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button4"
         android:layout_width="271dp"
         android:layout_height="55dp"
